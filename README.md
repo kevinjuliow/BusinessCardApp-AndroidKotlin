@@ -2,4 +2,4 @@
  Simple Android App BusinessCard using Kotlin
 
 ## Preview
-![Alt Text](./ImagePreview/img.png)
+![Alt Text](./ImagePreview/Img.png)
